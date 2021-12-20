@@ -9,14 +9,14 @@
         -- docs/
         -- fonts/
         -- images/
+        -- audio/
+        -- video/
     -- components/
         -- Header/
         -- Footer/
         -- App/ <!-- Renders routes -->
     -- routes/
         -- Home/
-        -- About/
-        -- Contact/
         -- Error/
     -- utils/
         -- hooks/
